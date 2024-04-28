@@ -49,7 +49,7 @@ function App() {
       <div className="bg-[url('../assets/Background.jpg')] font-['Laila'] w-[100%] text-center">
         <div>
           <h1 className="text-4xl p-4 text-amber-700 font-medium">
-            || Bagwat Gita Slok ||
+            || Bagwat Gita Shlok ||
           </h1>
         </div>
 
@@ -68,7 +68,7 @@ function App() {
             Chapter: {slok.chapter} Verse: {slok.verse}
           </h3>
           <p className="font-semibold leading-10 text-xl">
-            <span>Slok: </span>
+            <span>Shlok: </span>
             {slok.slok}
           </p>
           <br />
