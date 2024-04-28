@@ -10,7 +10,6 @@ This web application serves as a dynamic portal to the profound wisdom of the Bh
 - **Multilingual Translations:** Each shloka is accompanied by translations in Hindi, Sanskrit, English making the teachings of the Gita accessible to a global audience.
 - **Interpretations:** A variety of commentaries and interpretations from respected scholars and spiritual leaders are available, providing deeper insights into each verse.
 - **Daily Wisdom:** A feature that presents users with a random shloka each day, encouraging regular engagement and contemplation.
-- **Responsive Design:** The application is fully responsive, ensuring a seamless experience across all devices.
 - **Backgroud Music:** Experience the calming melody of Krishna’s flute as you navigate the site, enhancing your reading and contemplation.
 
 **✔️ Technologies Used:**
