@@ -22,7 +22,7 @@ const Preloader = () => {
 
   return (
     <div className={`bg-[url('../assets/Background.jpg')] z-10 preloader ${showPreloader ? 'show' : 'hide'}`}>
-      <h2 data-aos="fade-up" className="font-semibold text-6xl text-amber-800 z-20 absolute flex justify-center ">₰ Bagwat Gita Slok ₰</h2>
+      <h2 data-aos="fade-up" className="font-semibold text-6xl text-amber-800 z-20 absolute flex justify-center ">₰ Bagwat Gita Shlok ₰</h2>
       <img
         className="feather z-30"
         src={featherImage}
