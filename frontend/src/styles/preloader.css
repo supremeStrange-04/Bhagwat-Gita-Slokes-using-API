@@ -1,0 +1,35 @@
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  /* background-color: #ffffff; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.3s ease;
+}
+
+.preloader.hide {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.preloader img {
+  width: 500px; /* Adjust the width of the feather image as needed */
+  height: auto;
+}
+
+
+@keyframes fall {
+  0% {
+    transform: translate(-100%, -50%);
+  }
+  50% {
+    transform: translate(-100%, -50%);
+  }
+  100% {
+    transform: translate(150%, 60%) rotate(-30deg);
+  }
+}
