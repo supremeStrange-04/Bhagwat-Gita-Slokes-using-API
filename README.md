@@ -18,3 +18,8 @@ This web application serves as a dynamic portal to the profound wisdom of the Bh
 - Frontend: ReactJS, JavaScript
 - Backend: NodeJS, ExpressJS
 - API: Bhagavad Gita API
+
+**👨‍💻 How to Run**
+- Run both server for backend as well as frontend
+- Frontend: npm run dev
+- Backend: nodemon index.js / node index.js
